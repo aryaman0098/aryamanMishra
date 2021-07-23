@@ -1,0 +1,15 @@
+.main_body{
+    padding: 170px;
+    color: #444444;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.my_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height : 280px;
+    border-radius: 5%;
+}

@@ -1,0 +1,40 @@
+.nav_toolbar{
+    display: flex;
+    padding-top: 30px;
+    background: #171717;
+    font-size: medium;
+    align-items: center;
+}
+
+.title{
+    padding-left: 15px;
+    flex: .1;
+    color: white;
+    transition: color 1s;
+}
+
+.title:hover{
+    color: #DA0037;
+}
+
+.menu_items{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 20px;
+    color: #DA0037;
+}
+
+.menu_item{
+    padding: 20px;
+    font-weight: normal;
+    font-size: medium;
+    transition-duration: 400ms;
+}
+
+.menu_item:hover{
+   transform: scale(1.2);
+    transition-duration: 400ms;
+}
