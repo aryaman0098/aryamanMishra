@@ -1,9 +1,12 @@
-.main_body{
-    padding: 170px;
-    color: #444444;
+.home_page{
+    position: relative;
     text-align: center;
-    font-size: medium;
-    font-weight: bold;
+    min-height: 85vh;
+}
+.main_body_home{
+    padding: 90px 120px;
+    color: gray;
+    text-align: center;
 }
 
 .my_image {
@@ -12,4 +15,10 @@
     margin-right: auto;
     height : 280px;
     border-radius: 5%;
+}
+
+.current_designation{
+    font-size: large;
+    font-weight: 150px;
+    color: white;    
 }

@@ -1,0 +1,26 @@
+.about_page{
+    background: #171717;
+    position: relative;
+    color: gray;
+}
+
+.main_body_about{
+    padding: 40px 140px;
+    text-align: left;
+}
+
+.title{
+    color: wheat;
+    text-align: left;
+}
+
+.education{
+    padding: 40px 140px;
+    text-align: left;
+}
+
+.work_experience{
+    padding: 40px 140px;
+    color: #444444;
+    text-align: left;  
+}

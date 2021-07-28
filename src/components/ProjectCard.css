@@ -1,0 +1,19 @@
+.projectCard{
+    transition: 400ms;
+}
+
+.projectCard:hover{
+    background: #EEEEE0;    
+    transform: scale(1.02);
+    transition: 400ms;
+}
+
+.projectButton{
+    transition: 400ms;
+}
+
+.projectButton:hover{
+    color: purple;    
+    transform: scale(1.5);
+    transition: 400ms;
+}
