@@ -12,13 +12,13 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path = "/" exact component = {Home} />
+          <Route path = "/" exact component = {Home} title = "aryamanMishra"/>
         </Switch>
         <Switch>
-          <Route path = "/about" exact component = {About} />
+          <Route path = "/about" exact component = {About} title = "About"/>
         </Switch>
         <Switch>
-          <Route path = "/recentProjects" exact component = {RecentProjects} />
+          <Route path = "/recentProjects" exact component = {RecentProjects} title = "Recent Projects"/>
         </Switch>
       </Router>
       <Footer className = "footer_tag"/>

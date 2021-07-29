@@ -1,11 +1,11 @@
 .recentProjects_page{
     position: relative;
-    padding: 20px 140px;
+    padding: 20px 60px;
     min-height: 85vh;
 }
 
 .title{
     color: wheat;
     text-align: left;
-    padding: 20px;
+    padding: 25px;
 }

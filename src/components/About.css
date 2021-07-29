@@ -2,25 +2,29 @@
     background: #171717;
     position: relative;
     color: gray;
+    padding: 40px 40px;
 }
 
 .main_body_about{
-    padding: 40px 140px;
     text-align: left;
 }
 
 .title{
     color: wheat;
     text-align: left;
+    padding: 25px;
+}
+
+.about_{
+    padding-left: 20px;
 }
 
 .education{
-    padding: 40px 140px;
-    text-align: left;
+    padding: 40px -40px;
 }
 
 .work_experience{
-    padding: 40px 140px;
+    padding: 40px -40px;
     color: #444444;
-    text-align: left;  
+    text-align:inherit;  
 }

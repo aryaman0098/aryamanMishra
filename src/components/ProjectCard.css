@@ -1,5 +1,6 @@
 .projectCard{
     transition: 400ms;
+    min-width: 180px;
 }
 
 .projectCard:hover{
