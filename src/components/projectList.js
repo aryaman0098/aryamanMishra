@@ -2,7 +2,7 @@ export default [
     {
         avatarSrc : "https://i.pinimg.com/originals/80/74/17/8074177f317194ce8a6ad2ef4002342b.png",
         title : "Movie Recommender Engine",
-        description : "End to end content based movies recommendation system which uses TFIDF and cosine similarity for finding similar movies.",
+        description : "End to end content based movies recommendation system using TFIDF and cosine similarity for finding similar movies.",
         imgSrc : "https://cdn.dribbble.com/users/4017506/screenshots/9716589/media/e7091a962219fa655ae0fddb25f1adfa.png?compress=1&resize=400x300",
         codeUrl : "https://github.com/aryaman0098/Movie-Recommender-Engine"
     },
