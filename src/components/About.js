@@ -22,7 +22,20 @@ function About() {
             <div className="work_experience">
                 <h2 className="title">Work Experience</h2>
                 <Timeline align = "alternate">
+
                 <TimelineItem>
+                        <TimelineSeparator>
+                            <TimelineDot variant="outlined" />
+                            <TimelineConnector />
+                        </TimelineSeparator>
+                        <TimelineContent>
+                            <h4  style = {{color : "#EDEDED"}}>Software Developer Intern, MeraPashu360</h4>
+                            <p style = {{fontSize:12,  padding : 8, color : "gray"}}>March '22 - Present</p>
+                            <p style = {{color : "gray"}}>Working as an Android Developer</p>
+                        </TimelineContent>
+                    </TimelineItem>
+
+                    <TimelineItem>
                         <TimelineSeparator>
                             <TimelineDot variant="outlined" />
                             <TimelineConnector />
@@ -33,6 +46,7 @@ function About() {
                             <p style = {{color : "gray"}}>Worked on the migration of APIs form Openshift Container Platform to K8 Kubernetes and the automation of this process</p>
                         </TimelineContent>
                     </TimelineItem>
+
                 </Timeline>
             </div>
             <br />

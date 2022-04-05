@@ -1,5 +1,12 @@
 export default [
     {
+        avatarSrc : "https://cdn-icons-png.flaticon.com/512/2494/2494271.png",
+        title : "Connect Us",
+        description : "Connect Us is an end to end video conferencing webapp that uses WebRTC framework to provide peer to peer connection between participants for video and audio conferencing.",
+        imgSrc : "https://cdn-icons-png.flaticon.com/512/3214/3214781.png",
+        codeUrl : "https://github.com/aryaman0098/Connect-Us"        
+    },
+    {
         avatarSrc : "https://i.pinimg.com/originals/80/74/17/8074177f317194ce8a6ad2ef4002342b.png",
         title : "Movie Recommender Engine",
         description : "End to end content based movies recommendation system using TFIDF and cosine similarity for finding similar movies.",
