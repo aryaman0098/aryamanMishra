@@ -31,7 +31,7 @@ function About() {
                         <TimelineContent>
                             <h4  style = {{color : "#EDEDED"}}>Software Developer Intern, MeraPashu360</h4>
                             <p style = {{fontSize:12,  padding : 8, color : "gray"}}>March '22 - Present</p>
-                            <p style = {{color : "gray"}}>Working as an Android Developer</p>
+                            <p style = {{color : "gray"}}>Working with the android development team on the Buyer app to be used for business.</p>
                         </TimelineContent>
                     </TimelineItem>
 
